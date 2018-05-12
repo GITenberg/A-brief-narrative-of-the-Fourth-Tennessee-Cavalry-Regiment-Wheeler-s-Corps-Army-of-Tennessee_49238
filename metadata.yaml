@@ -1,10 +1,16 @@
 _repo: A-brief-narrative-of-the-Fourth-Tennessee-Cavalry-Regiment-Wheeler-s-Corps-Army-of-Tennessee_49238
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49238-h/images/cover.jpg
 creator:
   author:
     agent_name: Guild, George B.
     gutenberg_agent_id: '45213'
     url: http://www.gutenberg.org/2009/agents/45213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49238#A-brief-narrative-of-the-Fourth-Tennessee-Cavalry-Regiment-Wheeler-s-Corps-Army-of-Tennessee
 gutenberg_issued: '2015-06-19'
 gutenberg_type: Text
 identifiers:
